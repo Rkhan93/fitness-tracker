@@ -23,6 +23,6 @@ The user should be able to:
   
 
    ### Screen Shot
-![](/Screenshot1.png)
-![](/Screenshot2.png)
-![](/Screenshot3.png)
+![](/screenshots/screenshot1.png
+![](/screenshot2.png)
+![](/screenshot3.png)
