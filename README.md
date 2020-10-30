@@ -19,3 +19,10 @@ The user should be able to:
   * Add new exercises to a new workout plan.
 
   * View the combined weight of multiple exercises on the `stats` page.
+
+  
+
+   ### Screen Shot
+![](/Screenshot1.png)
+![](/Screenshot2.png)
+![](/Screenshot3.png)
